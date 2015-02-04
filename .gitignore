@@ -1,0 +1,11 @@
+Debug/
+Release/
+xLibs/Debug/
+xLibs/Release/
+xLibs/ReadMe.txt
+*.vcxproj.user
+xLibs_Test/Debug/
+xLibs_Test/Release/
+TestResults/
+*.sdf
+ipch/
