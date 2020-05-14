@@ -1,2 +1,6 @@
 # xLibs-CPP
-Some useful stuff for CPP (probably not as good as std:: but whatever, love doing useless stuff)
+Small personal project.
+
+Learning C++ by porting/improving my previous C lib, leveraging C++ capabilities.
+
+Use the standard library you fool
